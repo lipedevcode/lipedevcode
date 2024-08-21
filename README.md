@@ -1,5 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 <h2 align="left">About Me</h2>
+
 ###
 
 <p align="left">- doing CS at UFPI<br>- I program in Java<br>- I hate python😉</p>
