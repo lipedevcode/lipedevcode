@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">- doing CS at UFPI<br>- I program in Java<br>- I hate python😉</p>
+<p align="left">- doing CS at UFPI- I hate python😉</p>
 
 ###
 
